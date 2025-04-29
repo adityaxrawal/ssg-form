@@ -1,0 +1,27 @@
+.form-contianer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-color: lightgreen;
+}
+
+.form-details{
+    width: 100%;
+    height: 100%;
+}
+
+.form-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: b;
+}
+
+
+.button{
+    width: 5rem;
+    height: 2rem;
+    background-color: lightcoral;
+    border-radius: 2.5rem;
+}

@@ -1,0 +1,9 @@
+.detail-container{
+    width: 100%;
+    flex-direction: column;
+}
+.detail{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
